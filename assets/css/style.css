@@ -1,0 +1,35 @@
+#navtop{
+	z-index: 100;
+	border-bottom: 1px solid #dddddd;
+}
+
+#navdown{
+	box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.3);
+	z-index: 99;
+}
+.drop-shadow{
+	box-shadow: 0px 1px 2px 1px rgba(3,3,3,0.3);
+}
+.animation{
+	transition: all .4s;
+}
+.animation:hover{
+ 	transform: scaleY(1.05);
+}
+.navcontiner1{
+	margin: 10px 0;
+}
+.br{
+	border-right: 1px solid #dddddd;
+}
+
+#showcase{
+	background: url("../images/BG.png");
+	margin-top: 170px;
+	padding: 10px;
+}
+.imgw{
+	width: 100%;
+	border: 2px solid #eee;
+	margin-bottom: 30px;
+}
